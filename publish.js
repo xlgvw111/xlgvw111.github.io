@@ -60,7 +60,7 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-	'https://xlgvw111.pages.dev',
+	'https://xlgvw111.netlify.app',
 	
 	'https://xlgvw111.github.io'
 ];
