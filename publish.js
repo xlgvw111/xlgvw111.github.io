@@ -61,8 +61,8 @@ for(var i =0;i<urls.length*3;i++){
 // ];
 var otherUrls = [
 	'https://xlgvw111.netlify.app',
-	
 	'https://xlgvw111.github.io'
+	
 ];
 var foreverUrls = [
 	'https://xlspw.com',
