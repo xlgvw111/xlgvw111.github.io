@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'sqhub3678@gmail.com'
+    'xiaolanx36@gmail.com'
 ];
 
 var urls=[];
-        urls.push(".opbdvqvsp.cc");   
-        urls.push(".spsknunp.cc");  
-        urls.push(".jdzgdiuax.com");    
+        urls.push(".snndznwvg.cc");   
+        urls.push(".qkecuwwlw.cc");  
+        urls.push(".adqbvbogd.cc");    
         
                      	
-var JumpPage="https://sqggudbpl.cc";
+var JumpPage="https://xlgv56.com";
 
 var newestUrls = [];
 
@@ -60,12 +60,12 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-	'https://dizhi44.pages.dev',
-	'https://gitlab.com/dizhi44',
-	'https://dizhi44.github.io'
+	'https://xlgvw111.pages.dev',
+	
+	'https://xlgvw111.github.io'
 ];
 var foreverUrls = [
-	'https://stgay.com',
+	'https://xlspw.com',
 	
 	JumpPage
 ];
@@ -142,7 +142,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问搜同网'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问小蓝视频网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
