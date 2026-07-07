@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".adqbvbogd.cc");    
         
                      	
-var JumpPage="https://xlgv56.com";
+var JumpPage="https://xlgv57.com";
 
 var newestUrls = [];
 
