@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".ueovkyhn.cc");    
         
                      	
-var JumpPage="https://xlgv60.com";
+var JumpPage="https://xlgv61.com";
 
 var newestUrls = [];
 
