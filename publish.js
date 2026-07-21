@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".qywchhhv.cc");   
-        urls.push(".mrmkgwhhq.cc");  
-        urls.push(".ueovkyhn.cc");    
+        urls.push(".jktykfoo.cc");   
+        urls.push(".qywchhhv.cc");  
+        urls.push(".mrmkgwhhq.cc");    
         
                      	
 var JumpPage="https://xlgv61.com";
