@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".lexawuzao.com");   
-        urls.push(".taijahjiq.cc");  
-        urls.push(".cpvvowoby.com");    
+        urls.push(".bbqbtuym.cc");   
+        urls.push(".lexawuzao.com");  
+        urls.push(".taijahjiq.cc");    
         
                      	
 var JumpPage="https://xlgv75.com";
