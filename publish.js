@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".bbqbtuym.cc");   
-        urls.push(".lexawuzao.com");  
-        urls.push(".taijahjiq.cc");    
+        urls.push(".ycfxlxnyp.cc");   
+        urls.push(".bbqbtuym.cc");  
+        urls.push(".lexawuzao.com");    
         
                      	
-var JumpPage="https://xlgv75.com";
+var JumpPage="https://xlgv76.com";
 
 var newestUrls = [];
 
