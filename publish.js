@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".ouwcykoe.cc");   
-        urls.push(".wbwofusin.cc");  
-        urls.push(".obdwocdxc.cc");    
+        urls.push(".adbgbiojy.cc");   
+        urls.push(".ouwcykoe.cc");  
+        urls.push(".wbwofusin.cc");    
         
                      	
 var JumpPage="https://xlgv81.com";
