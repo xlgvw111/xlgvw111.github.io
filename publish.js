@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".iuudsmodz.cc");    
         
                      	
-var JumpPage="https://xlgv84.com";
+var JumpPage="https://xlgv85.com";
 
 var newestUrls = [];
 
