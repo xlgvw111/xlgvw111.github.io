@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".goamnafca.cc");    
         
                      	
-var JumpPage="https://xlgv89.com";
+var JumpPage="https://xlgv90.com";
 
 var newestUrls = [];
 
