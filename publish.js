@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".kiuhoves.cc");   
-        urls.push(".goamnafca.cc");  
-        urls.push(".i9kt0fpn.cc");    
+        urls.push(".oguurasb.cc");   
+        urls.push(".kiuhoves.cc");  
+        urls.push(".goamnafca.cc");    
         
                      	
 var JumpPage="https://xlgv89.com";
