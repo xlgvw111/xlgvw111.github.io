@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".tofleaxtw.cc");    
         
                      	
-var JumpPage="https://xlgv91.com";
+var JumpPage="https://xlgv92.com";
 
 var newestUrls = [];
 
