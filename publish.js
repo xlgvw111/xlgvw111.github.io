@@ -40,7 +40,7 @@ var urls=[];
         urls.push(".nqpmzyce.cc");   
         urls.push(".exwkrgmwd.cc");  
         urls.push(".tofleaxtw.cc");    
-        urls.push(".nqpmzyce.cc");
+    
 
 var newestUrls = [];
 
