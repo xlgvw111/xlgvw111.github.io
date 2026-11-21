@@ -65,7 +65,6 @@ var newestEntryUrls = [
 // ];
 var otherUrls = [
 	'https://xlgvw111.pages.dev',
-	'https://xlgvw111.netlify.app',
 	'https://gitlab.com/xiaolan88',
 	'https://xlgvw111.github.io'
 ];
