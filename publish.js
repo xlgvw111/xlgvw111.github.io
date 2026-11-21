@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".tofleaxtw.cc");    
         urls.push(".nqpmzyce.cc");
                      	
-var JumpPage="https://xlgv92.com";
+var JumpPage="https://xlgv90.com";
 var newestUrls = [];
 
 
@@ -71,8 +71,8 @@ var foreverUrls = [
 	'https://xlspw.me',
     'https://xlspw.me',
 	'https://xlspw.me',
-	'https://xlgv90.com',
 	'https://xlgv91.com',
+	'https://xlgv92.com',
 	JumpPage
 ];
 var notices = [
