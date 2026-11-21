@@ -16,7 +16,7 @@ var subdomains = [
     'tju',  // 同济大学 (Tongji University)
     'sdu',  // 山东大学 (Shandong University)
     'hust', // 华中科技大学 (Huazhong University of Science and Technology)
-    'xjtu',  // 西安交通大学 (Xi'an Jiaotong University)
+    'xjtu', // 西安交通大学 (Xi'an Jiaotong University)
     'hit',  // 哈尔滨工业大学 Harbin Institute of Technology
 ];
 function getRandomSubdomain() {
@@ -49,6 +49,12 @@ var newestUrls = [];
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
 }
+
+var newestEntryUrls = [
+    'https://xlgv92.com',
+    'https://xlgv91.com',
+    'https://xlgv90.com'
+];
 
 // var newestUrls = [
 //     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
@@ -149,6 +155,10 @@ window.onload = function () {
     var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问小蓝视频网'});
     mainElem.appendChild(newestFieldElem);
 
+    // newest entry urls
+    var newestEntryElem = createFieldElem({title: '最新入口', items: newestEntryUrls});
+    mainElem.appendChild(newestEntryElem);
+
     // other urls
     var otherFieldElem = createFieldElem({title: '由于风控原因，网址经常被墙<br />务必保存下面所有地址发布页', items: otherUrls});
     mainElem.appendChild(otherFieldElem);
@@ -165,51 +175,3 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
