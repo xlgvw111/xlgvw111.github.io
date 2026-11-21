@@ -41,8 +41,7 @@ var urls=[];
         urls.push(".exwkrgmwd.cc");  
         urls.push(".tofleaxtw.cc");    
         urls.push(".nqpmzyce.cc");
-                     	
-var JumpPage="https://xlgv90.com";
+
 var newestUrls = [];
 
 
@@ -74,8 +73,7 @@ var foreverUrls = [
 	'https://xlblw.com',
     'https://hlgay.com',
 	'https://xlspw.com',
-	'https://xlspw.me',
-	JumpPage
+	'https://xlspw.me'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
