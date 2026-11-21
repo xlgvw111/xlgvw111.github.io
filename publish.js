@@ -64,10 +64,11 @@ var otherUrls = [
 	'https://xlgvw111.github.io'
 ];
 var foreverUrls = [
-	'https://xlspw.com',
+	'https://xlgvw.com',
 	'https://xlblw.com',
     'https://hlgay.com',
-	'https://xlgvw.com',
+	'https://xlspw.com',
+	'https://xlspw.me',
 	'https://xlgv92.com',
 	'https://xlgv91.com',
 	JumpPage
