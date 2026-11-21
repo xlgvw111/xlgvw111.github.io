@@ -71,8 +71,8 @@ var foreverUrls = [
 	'https://xlspw.me',
     'https://xlspw.me',
 	'https://xlspw.me',
-	'https://xlgv91.com',
 	'https://xlgv92.com',
+	'https://xlgv91.com',
 	JumpPage
 ];
 var notices = [
