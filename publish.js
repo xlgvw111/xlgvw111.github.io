@@ -36,17 +36,20 @@ var emails = [
     'xiaolanx36@gmail.com'
 ];
 
-var urls=[];
-        urls.push(".nqpmzyce.cc");   
-        urls.push(".exwkrgmwd.cc");  
-        urls.push(".tofleaxtw.cc");    
-    
+var urls = [
+    'nqpmzyce.cc',
+    'exwkrgmwd.cc',
+    'tofleaxtw.cc'
+];
 
 var newestUrls = [];
-
-
-for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
+for (var i = 0; i < 9; i++) {
+    var domain = urls[i % urls.length];
+    newestUrls.push({
+        prefix: '直连域名 ' + (i + 1) + ' ',
+        label: domain,
+        url: 'https://' + domain
+    });
 }
 
 var newestEntryUrls = [
@@ -55,31 +58,23 @@ var newestEntryUrls = [
     'https://xlgv90.com'
 ];
 
-// var newestUrls = [
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
-//     'https://' + getRandomSubdomain() + '.vildiho.cc',
-// 	'https://' + getRandomSubdomain() + '.vildiho.cc',    
-//     'https://' + getRandomSubdomain() + '.vildiho.cc'
-// ];
 var otherUrls = [
-	'https://xlgvw111.pages.dev',
-	'https://gitlab.com/xiaolan88',
-	'https://xlgvw111.github.io'
+    'https://xlgvw111.pages.dev',
+    'https://gitlab.com/xiaolan88',
+    'https://xlgvw111.github.io'
 ];
 var foreverUrls = [
-	'https://xlgvw.com',
-	'https://xlblw.com',
+    'https://xlgvw.com',
+    'https://xlblw.com',
     'https://hlgay.com',
-	'https://xlspw.com',
-	'https://xlspw.me'
+    'https://xlspw.com',
+    'https://xlspw.me'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
     '* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。',
-	'* 大陆地区用户我们强烈建议您截图收藏当前页面。'
+    '* 大陆地区用户我们强烈建议您截图收藏当前页面。'
 ];
 
 //生成从minNum到maxNum的随机数
@@ -113,13 +108,14 @@ function createFieldElem(option) {
     titleElem.innerHTML = title;
     fieldElem.appendChild(titleElem);
   
-        var ulElem = document.createElement('ul');
+    var ulElem = document.createElement('ul');
  
-    
-    var htmlStr = ''
+    var htmlStr = '';
     for (var i = 0; i < items.length; i++) {
         if (plainText) {
             htmlStr = htmlStr + '<li>' + items[i] + '</li>';
+        } else if (typeof items[i] === 'object' && items[i] !== null) {
+            htmlStr = htmlStr + '<li>' + (items[i].prefix || '') + '<a href="' + items[i].url + '" target="_blank">' + items[i].label + '</a></li>';
         } else {
             htmlStr = htmlStr + '<li><a href="' + items[i] + '" target="_blank">' + items[i] + '</a></li>';
         }
@@ -141,7 +137,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = ' <img src="logo.png"  width="180"/>'
+    logoElem.innerHTML = ' <img src="logo.png"  width="180"/>';
     mainElem.appendChild(logoElem);
 
     //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
@@ -170,4 +166,4 @@ window.onload = function () {
     // Description
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
-}
+};
