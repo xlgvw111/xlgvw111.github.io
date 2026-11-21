@@ -43,8 +43,7 @@ var urls=[];
         urls.push(".nqpmzyce.cc");
                      	
 var JumpPage="https://xlgv92.com";
-var JumpPage="https://xlgv91.com";
-var JumpPage="https://xlgv90.com";
+           
 var newestUrls = [];
 
 
@@ -71,6 +70,8 @@ var foreverUrls = [
     'https://hlgay.com',
 	'https://xlgvw.com',
 	'https://xlspw.me',
+	'https://xlgv91.com',
+	'https://xlgv90.com',
 	JumpPage
 ];
 var notices = [
