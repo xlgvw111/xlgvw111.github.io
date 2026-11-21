@@ -68,9 +68,6 @@ var foreverUrls = [
 	'https://xlblw.com',
     'https://hlgay.com',
 	'https://xlgvw.com',
-	'https://xlspw.me',
-    'https://xlspw.me',
-	'https://xlspw.me',
 	'https://xlgv92.com',
 	'https://xlgv91.com',
 	JumpPage
