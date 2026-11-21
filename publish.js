@@ -40,10 +40,11 @@ var urls=[];
         urls.push(".nqpmzyce.cc");   
         urls.push(".exwkrgmwd.cc");  
         urls.push(".tofleaxtw.cc");    
-        
+        urls.push(".nqpmzyce.cc");
                      	
 var JumpPage="https://xlgv92.com";
-
+var JumpPage="https://xlgv91.com";
+var JumpPage="https://xlgv90.com";
 var newestUrls = [];
 
 
@@ -66,7 +67,10 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://xlspw.com',
-	
+	'https://xlblw.com',
+    'https://hlgay.com',
+	'https://xlgvw.com',
+	'https://xlspw.me',
 	JumpPage
 ];
 var notices = [
