@@ -75,8 +75,6 @@ var foreverUrls = [
     'https://hlgay.com',
 	'https://xlspw.com',
 	'https://xlspw.me',
-	'https://xlgv92.com',
-	'https://xlgv91.com',
 	JumpPage
 ];
 var notices = [
