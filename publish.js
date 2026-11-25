@@ -50,9 +50,9 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var newestEntryUrls = [
+    'https://xlgv93.com',
     'https://xlgv92.com',
-    'https://xlgv91.com',
-    'https://xlgv90.com'
+    'https://xlgv91.com'
 ];
 
 // var newestUrls = [
